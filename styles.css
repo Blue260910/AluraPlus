@@ -25,7 +25,7 @@ body{
 }
 
 .principal{
-    background-image: url(/Projeto-2/Assets/Background.png);
+    background-image: url(/Assets/Background.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
